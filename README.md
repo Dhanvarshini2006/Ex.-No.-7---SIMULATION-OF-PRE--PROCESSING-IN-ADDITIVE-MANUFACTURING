@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 02.12.2023
+### DATE: 14/12/2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -40,11 +40,19 @@
 
 ## OUTPUT:
 ![image](https://github.com/Raji1009/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/59646bc2-c1a9-46f3-a860-e3fed681930b)
+
+
 ![image](https://github.com/Raji1009/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/15bce04a-2795-4249-9377-72085bf82cf4)
 
 
-### Name: Rajalakshmi R
-### Register Number: 23013958
+![Screenshot (66)](https://github.com/user-attachments/assets/e3effb5c-c68a-4239-93a5-2d9a73aaf1cf)
+
+
+
+
+
+### Name: DHAN VARSHINI J P
+### Register Number: 24900197
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
